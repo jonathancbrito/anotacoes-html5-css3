@@ -1,2 +1,2 @@
 # exercicios-html5-css3
- CursoemVideo Html5 Css3
+ repositório para guardar anotações de Html5 e Css3.
